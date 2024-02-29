@@ -1,0 +1,15 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = git@github.com:Skademaskinen/Frontend.git
+[submodule "Backend"]
+	path = Backend
+	url = git@github.com:Skademaskinen/Backend
+[submodule "Putricide"]
+	path = Putricide
+	url = git@github.com:Skademaskinen/Putricide
+[submodule "RP-Utils"]
+	path = RP-Utils
+	url = git@github.com:Skademaskinen/RP-Utils
+[submodule "Server-Config"]
+	path = Server-Config
+	url = git@github.com:Skademaskinen/Server-Config
